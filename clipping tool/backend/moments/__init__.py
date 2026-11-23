@@ -1,0 +1,1 @@
+"""Phase 4: transcript-grounded moment analysis, without video rendering."""
